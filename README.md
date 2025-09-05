@@ -2,7 +2,7 @@
 
 ---
 
-```markdown
+markdown
 # Image Dataset Collector
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -21,17 +21,6 @@ This repository provides a **ready-to-use Jupyter Notebook** that works both loc
 
 ---
 
-## 📂 Project Structure
-```
-
-image-dataset-collector/
-│
-├── notebooks/
-│   └── Collecting\_image\_datasets\_EN\_clean.ipynb   # main notebook
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
 
 ````
 
@@ -103,7 +92,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 👨‍💻 Maintained by [emadreza870](https://github.com/emadreza870)
 Contributions, suggestions, and pull requests are welcome!
 
-```
 
----
+
+
 
