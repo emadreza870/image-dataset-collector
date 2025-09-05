@@ -22,9 +22,6 @@ This repository provides a **ready-to-use Jupyter Notebook** that works both loc
 ---
 
 
-````
-
----
 
 ## 🔧 Installation
 
@@ -34,7 +31,7 @@ Clone the repository and install dependencies:
 git clone https://github.com/emadreza870/image-dataset-collector.git
 cd image-dataset-collector
 pip install -r requirements.txt
-````
+```
 
 ---
 
@@ -91,6 +88,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 👨‍💻 Maintained by [emadreza870](https://github.com/emadreza870)
 Contributions, suggestions, and pull requests are welcome!
+
 
 
 
